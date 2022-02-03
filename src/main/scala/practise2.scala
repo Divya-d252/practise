@@ -5,6 +5,7 @@ object hola {
   def main(args: Array[String]): Unit = {
 
     println("check-merge")
+    println("pull")
 
     println("master")
 
